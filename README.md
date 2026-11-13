@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I'm Yididya Asfaw!
 
-<!--
-**Yidu16110/Yidu16110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Python Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Yididya Asfaw, a Computer Science student passionate about programming, software development, artificial intelligence, and using technology to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building projects, exploring creative ideas, and continuously improving my programming skills.
+
+---
+
+🚀 About Me
+
+- 🎓 Computer Science B.S. student.
+- 🐍 Working with Python and exploring software development.
+- 💡 Interested in Artificial Intelligence, Machine Learning, and Web Development.
+- 🌱 Always learning, experimenting, and building.
+- 🌍 Passionate about using technology to make a positive difference.
+
+🛠️ Technologies & Skills
+
+- Languages: Python, HTML, CSS, JavaScript
+- Interests: Artificial Intelligence, Software Engineering, Web Development
+- Tools: Git, GitHub, VS Code, SPCK Editor
+
+🐍 My Python Work
+
+Explore my Python projects and programming work:
+
+🔗 "Ye-Buna – My Python Work" (https://ye-buna.com/jedis)
+
+🌐 Find Me Online
+
+- 💻 Personal Website: "yididya.me" (https://yididya.me)
+- 🐍 Python Work: "ye-buna.com/jedis" (https://ye-buna.com/jedis)
+- 🐙 GitHub: You're already here!
+
+---
+
+🎯 My Philosophy
+
+«"Always learning, Always Building, Always Growing"»
+
+I believe every great developer starts as a learner. I'm here to learn, build, share, collaborate, and turn ideas into reality.
+
+Thanks for visiting my profile! Let's build something amazing. 🚀
