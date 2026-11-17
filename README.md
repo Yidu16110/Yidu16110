@@ -33,6 +33,10 @@ Explore my Python projects and programming work:
 - 💻 Personal Website: "yididya.me" (https://yididya.me)
 - 🐍 Python Work: "ye-buna.com/jedis" (https://ye-buna.com/jedis)
 - 🐙 GitHub: You're already here!
+- Telegram: "@Yidu16110"
+  (https://t.me/Yidu16110)
+- WhatsApp: "@Yidu16110"
+  (https://wa.me/Yidu16110)
 
 ---
 
